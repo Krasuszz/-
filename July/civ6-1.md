@@ -1,5 +1,5 @@
-### Sid Meier's Civilization | 文明6
-From the first stirrings[^1] of life beneath[^2] water... to the great beasts of the Stone Age... to man taking his first upright[^3] steps, you have come far. Now begins your greatest quest[^4]: from this early cradle[^5] of civilization[^6] on the towards the stars. 
+### Sid Meier's Civilization | 文明6 | 远古时代开场白
+From the first stirrings[^1] of life beneath[^2] water... to the great beasts of the Stone Age... to man taking his first upright[^3] steps, you have come far. Now begins your greatest quest[^4]: from this early cradle[^5] of civilization[^6] on towards the stars. 
 >从水下第一个生命的萌芽开始……到石器时代的巨型野兽……再到人类第一次直立行走，你已经历许多。现在，开启你最伟大的探索吧：从早期文明的摇篮到浩瀚星宇。
 
 [^1]:stirring  
